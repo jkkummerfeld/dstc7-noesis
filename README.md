@@ -41,7 +41,7 @@ If you use the Ubuntu data, please also cite the paper in which we describe its 
 }
 ```
 
-**For more detail, please visit our [website](https://ibm.github.io/dstc7-noesis/public/index.html)**.
+**For more detail, please visit our [website](https://ibm.github.io/dstc-noesis/public/data_description.html)**.
 
 ### Organizers
 
